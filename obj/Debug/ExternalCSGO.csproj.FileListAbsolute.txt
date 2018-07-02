@@ -1,0 +1,2 @@
+C:\Users\bobe\Desktop\ExternalCSGO-master\External-CSGO\obj\Debug\ExternalCSGO.csprojAssemblyReference.cache
+C:\Users\bobe\Desktop\ExternalCSGO-master\External-CSGO\obj\Debug\ExternalCSGO.csproj.CoreCompileInputs.cache
